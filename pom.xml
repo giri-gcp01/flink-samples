@@ -64,7 +64,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.learn.flink.FileSinkExample</mainClass>
+                            <mainClass>com.learn.flink.FileSinkFilterExample</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
